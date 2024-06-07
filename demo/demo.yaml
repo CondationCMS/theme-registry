@@ -1,0 +1,8 @@
+id: seo-module
+name: Seo module
+description: "A module to provide simple seo functionalities"
+version: 1.2.0
+author: "Thorsten Marx"
+url: "https://github.com/thmarx/seo-module"
+file: "https://github.com/thmarx/seo-module/releases/download/v1.2.0/seo-module-bin.zip"
+compatibility: ">=4.18.1"
