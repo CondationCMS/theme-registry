@@ -2,7 +2,7 @@ id: demo
 name: Deme theme
 description: "A demo theme"
 version: 1.0.0
-author: "Thorsten Marx"
-url: "https://github.com/thmarx/demo-theme"
-file: "https://github.com/thmarx/demo-theme/releases/download/v1.0.0/demo.zip"
+author: "CondationCMS"
+url: "https://github.com/CondationCMS/demo-theme"
+file: "https://github.com/CondationCMS/demo-theme/releases/download/v1.0.0/demo.zip"
 compatibility: ">=4.18.1"
